@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-28 06:30:48,url
+2025-01-28 18:33:40,url
 央视频道,#genre#
 CCTV1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV1,http://139.196.151.191:2051/rtp/239.45.3.145:5140$组播源
@@ -329,7 +329,6 @@ CCTV15,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8$订阅源|1920x1080
 CCTV15,http://113.57.93.165:9900/tsfile/live/0015_1.m3u8$订阅源
 CCTV16,http://122.9.151.210:6209/rtp/238.255.2.219:5999$组播源
 CCTV16,http://122.9.151.210:2669/rtp/238.255.2.219:5999$组播源
-CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$订阅源|3840x2160
 CCTV16,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=no$订阅源
 CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8$订阅源
 CCTV16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=no$订阅源
@@ -339,6 +338,7 @@ CCTV16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8
 CCTV16,http://61.138.128.226:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV16,http://gslbserv.itv.cmvideo.cn/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$订阅源
+CCTV16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源|1920x1080
 CCTV17,http://123.56.129.203:1251/rtp/225.1.8.17:8144$北京电信组播源
 CCTV17,http://123.56.129.203:1251/rtp/225.1.8.117:8064$北京电信组播源
 CCTV17,http://123.56.129.203:8025/rtp/225.1.8.17:8144$北京电信组播源
@@ -964,7 +964,6 @@ CETV4,http://123.56.129.203:8025/rtp/225.1.8.195:4120$北京电信组播源
 动漫秀场,https://fmbox.cc/公众号玉玉软件库/tv/yc.php?id=dmxch-1$订阅源
 动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000$订阅源
 法治天地,http://139.196.151.191:5630/rtp/239.45.1.46:5140$上海电信组播源
-精彩影视,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源|IPv6
 精彩影视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId=$订阅源|IPv6
 乐游,http://122.9.151.210:6217/rtp/238.255.2.188:5999$贵州电信组播源
 金色学堂,http://120.55.49.231:1141/rtp/233.50.201.186:5140$浙江电信组播源
