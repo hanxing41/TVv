@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-29 06:36:51,url
+2025-01-29 18:39:13,url
 央视频道,#genre#
 CCTV1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV1,http://175.10.230.91:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
@@ -959,6 +959,7 @@ CCTV4美洲,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cable
 CGTN,http://123.56.129.203:1251/rtp/225.1.8.116:8056$北京电信组播源
 CGTN,http://139.196.151.191:5630/rtp/239.45.1.194:5140$上海电信组播源
 CGTN,http://123.56.129.203:8025/rtp/225.1.8.116:8056$北京电信组播源
+CGTN,https://pi.0472.org/tv/fct.php?auth=230918$订阅源
 CGTN纪录,http://175.10.230.91:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖南酒店源
 CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$订阅源
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8$订阅源
@@ -976,6 +977,7 @@ CGTN俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8$订阅源
 茶频道,http://123.56.129.203:1251/rtp/225.1.8.72:8002$北京电信组播源
 茶频道,http://123.56.129.203:8025/rtp/225.1.8.72:8002$北京电信组播源
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8$订阅源
+梨园频道,https://pi.0472.org/tv/hn.php?id=154$订阅源
 梨园频道,https://fmbox.cc/公众号玉玉软件库/tv/yc.php?id=lpd-1$订阅源
 武术世界,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8?IASHttpSessionId=$订阅源|IPv6
 文物宝库,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId=$订阅源|IPv6
@@ -1053,9 +1055,11 @@ CETV4,http://123.56.129.203:8025/rtp/225.1.8.195:4120$北京电信组播源
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8$订阅源
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
+CHC家庭影院,https://pi.0472.org/chc/jt.m3u8$订阅源
 CHC家庭影院,https://fmbox.cc/公众号玉玉软件库/tv/yc.php?id=chcjt-1$订阅源
 CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111$订阅源|1920x1080
 CHC影迷电影,https://fmbox.cc/公众号玉玉软件库/tv/yc.php?id=chcmd-1$订阅源
+CHC动作电影,https://pi.0472.org/chc/dz.m3u8$订阅源
 CHC动作电影,https://fmbox.cc/公众号玉玉软件库/tv/yc.php?id=chcdzd-1$订阅源
 CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111$订阅源|1920x1080
 CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111$订阅源|1920x1080
