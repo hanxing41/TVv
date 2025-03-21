@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-21 06:25:45" tvg-logo="https://live.fanmingming.com/tv/2025-03-21 06:25:45.png" group-title="更新时间",2025-03-21 06:25:45
+#EXTINF:-1 tvg-name="2025-03-21 18:35:29" tvg-logo="https://live.fanmingming.com/tv/2025-03-21 18:35:29.png" group-title="更新时间",2025-03-21 18:35:29
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -764,6 +764,8 @@ http://123.56.129.203:5431/rtp/225.1.8.145:9244$组播源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://123.56.129.203:7004/rtp/225.1.8.145:9244$组播源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源|1920x1080
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://111.61.236.247:9081/hls/38/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://116.128.242.83:9901/tsfile/live/1006_1.m3u8$订阅源
@@ -775,8 +777,6 @@ http://183.11.239.36:808/hls/45/index.m3u8$订阅源
 http://61.136.172.236:9901/tsfile/live/0126_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8$订阅源
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://tv.2cf.x10.mx/2hl/3221225739/index.m3u8?ace$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -1483,6 +1483,8 @@ http://139.196.151.191/rtp/239.45.1.46:5140$组播源
 http://dassby.qqff.top:99/live/法治天地/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="文化频道",乐游
 http://122.9.151.210:6217/rtp/238.255.2.188:5999$贵州电信组播源
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="文化频道",金色学堂
+http://120.55.49.231:1141/rtp/233.50.201.186:5140$浙江电信组播源
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="文化频道",生活时尚
 http://122.9.151.210:6209/rtp/238.255.2.193:5999$组播源
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="文化频道",魅力足球
@@ -1560,6 +1562,8 @@ http://120.198.101.106:9901/tsfile/live/1051_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="文化频道",CHC家庭影院
 http://goo.bkpcp.top/mg/jtyy$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="文化频道",CHC动作电影
+http://119.32.12.32:2901/udp/224.1.100.131:11111$订阅源|1920x1080
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="文化频道",CHC动作电影
 http://119.32.12.17:2901/udp/224.1.100.131:11111$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="文化频道",CHC动作电影
 http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
@@ -1577,8 +1581,6 @@ http://goo.bkpcp.top/mg/dzdy$订阅源|1920x1080
 http://z.b.bkpcp.top/m.php?id=dzdy$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="文化频道",CHC动作电影
 http://api2.52tb.xyz/info?id=219&token=20230218jsyklh$订阅源|1920x1080
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="文化频道",CHC动作电影
-http://120.198.101.106:9901/tsfile/live/1052_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="🈳无结果频道",纪实科教
 url
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="🈳无结果频道",CCTV4美洲
@@ -1592,8 +1594,6 @@ url
 #EXTINF:-1 tvg-name="居家购物" tvg-logo="https://live.fanmingming.com/tv/居家购物.png" group-title="🈳无结果频道",居家购物
 url
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="🈳无结果频道",精彩影视
-url
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="🈳无结果频道",金色学堂
 url
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="🈳无结果频道",CHC影迷电影
 url
