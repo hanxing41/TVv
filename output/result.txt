@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-26 18:37:30,url
+2025-03-27 06:25:27,url
 央视频道,#genre#
 CCTV1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV1,http://123.56.129.203:1251/rtp/225.1.8.1:8008$北京电信组播源
@@ -383,11 +383,11 @@ CCTV17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&
 深圳卫视,http://123.56.129.203:8025/rtp/225.1.8.145:9244$北京电信组播源
 深圳卫视,http://123.56.129.203:5431/rtp/225.1.8.145:9244$组播源
 深圳卫视,http://123.56.129.203:7004/rtp/225.1.8.145:9244$组播源
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源|1920x1080
 深圳卫视,http://111.61.236.247:9081/hls/38/index.m3u8$订阅源
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8$订阅源
 深圳卫视,http://61.138.128.226:19901/tsfile/live/0126_1.m3u8$订阅源
 深圳卫视,http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8$订阅源
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 深圳卫视,http://tv.2cf.x10.mx/2hl/3221225739/index.m3u8?ace$订阅源
 深圳卫视,http://tv.2cf.x10.mx/2hl/3221226510/index.m3u8?ace$订阅源
 深圳卫视,http://61.138.128.226:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -711,11 +711,11 @@ CGTN俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8$订阅源
 武术世界,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8?IASHttpSessionId=$订阅源|IPv6
 文物宝库,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId=$订阅源|IPv6
 卡酷少儿,http://123.56.129.203:5177/rtp/225.1.8.130:8002$组播源
+卡酷少儿,http://qjrhc.jydjd.top:2911/udp/224.1.100.146:11111$订阅源|1920x1080
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 卡酷少儿,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=GD_CUCC&$订阅源
 卡酷少儿,http://110.53.218.182:9902/tsfile/live/0124_1.m3u8$订阅源
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8$订阅源
-卡酷少儿,http://dsk.cc/bjtv/btime.php?id=bjkk$订阅源
 卡酷少儿,http://tv.2cf.x10.mx/2hl/3221225654/index.m3u8?ace$订阅源
 卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源
 卡酷少儿,http://61.157.139.15:9901/tsfile/live/2418_1.m3u8$订阅源
@@ -741,7 +741,7 @@ CETV4,http://123.56.129.203:8025/rtp/225.1.8.195:4120$北京电信组播源
 东方财经,http://tvbox6.icu/tv/yicai.php?id=dfcjhd$订阅源
 东方财经,http://124.248.69.76:26781/douyu/9548279$订阅源|1920x1080
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8$订阅源
-东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111$订阅源
+东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111$订阅源|1920x1080
 金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 金鹰卡通,http://123.56.129.203:1251/rtp/225.1.8.163:9252$北京电信组播源
 金鹰卡通,http://123.56.129.203:8025/rtp/225.1.8.163:9252$北京电信组播源

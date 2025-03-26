@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-26 18:37:30" tvg-logo="https://live.fanmingming.com/tv/2025-03-26 18:37:30.png" group-title="更新时间",2025-03-26 18:37:30
+#EXTINF:-1 tvg-name="2025-03-27 06:25:27" tvg-logo="https://live.fanmingming.com/tv/2025-03-27 06:25:27.png" group-title="更新时间",2025-03-27 06:25:27
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -764,8 +764,6 @@ http://123.56.129.203:5431/rtp/225.1.8.145:9244$组播源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://123.56.129.203:7004/rtp/225.1.8.145:9244$组播源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源|1920x1080
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://111.61.236.247:9081/hls/38/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://116.128.242.83:9901/tsfile/live/1006_1.m3u8$订阅源
@@ -773,6 +771,8 @@ http://116.128.242.83:9901/tsfile/live/1006_1.m3u8$订阅源
 http://61.138.128.226:19901/tsfile/live/0126_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8$订阅源
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://tv.2cf.x10.mx/2hl/3221225739/index.m3u8?ace$订阅源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -1416,6 +1416,8 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="文化频道",卡酷少儿
 http://123.56.129.203:5177/rtp/225.1.8.130:8002$组播源
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="文化频道",卡酷少儿
+http://qjrhc.jydjd.top:2911/udp/224.1.100.146:11111$订阅源|1920x1080
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="文化频道",卡酷少儿
 http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="文化频道",卡酷少儿
 http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=GD_CUCC&$订阅源
@@ -1423,8 +1425,6 @@ http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_KAKU/G_KAKU.m
 http://110.53.218.182:9902/tsfile/live/0124_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="文化频道",卡酷少儿
 http://61.138.128.226:19901/tsfile/live/1017_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="文化频道",卡酷少儿
-http://dsk.cc/bjtv/btime.php?id=bjkk$订阅源
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="文化频道",卡酷少儿
 http://tv.2cf.x10.mx/2hl/3221225654/index.m3u8?ace$订阅源
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="文化频道",卡酷少儿
@@ -1476,7 +1476,7 @@ http://124.248.69.76:26781/douyu/9548279$订阅源|1920x1080
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="文化频道",东方财经
 http://115.150.63.77:9902/tsfile/live/1042_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="文化频道",东方财经
-http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111$订阅源
+http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111$订阅源|1920x1080
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="文化频道",金鹰卡通
 http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="文化频道",金鹰卡通
