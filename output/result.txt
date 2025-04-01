@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-01 18:37:41,url
+2025-04-02 06:26:11,url
 央视频道,#genre#
 CCTV1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV1,http://123.56.129.203:1251/rtp/225.1.8.1:8008$北京电信组播源
@@ -380,10 +380,10 @@ CCTV17,http://58.243.224.244:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&
 深圳卫视,http://123.56.129.203:8025/rtp/225.1.8.145:9244$北京电信组播源
 深圳卫视,http://123.56.129.203:5431/rtp/225.1.8.145:9244$组播源
 深圳卫视,http://123.56.129.203:7004/rtp/225.1.8.145:9244$组播源
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源|1920x1080
 深圳卫视,http://111.61.236.247:9081/hls/38/index.m3u8$订阅源
 深圳卫视,http://61.138.128.226:19901/tsfile/live/0126_1.m3u8$订阅源
 深圳卫视,http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8$订阅源
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 深圳卫视,http://tv.2cf.x10.mx/2hl/3221225739/index.m3u8?ace$订阅源
 深圳卫视,http://tv.2cf.x10.mx/2hl/3221226510/index.m3u8?ace$订阅源
 深圳卫视,http://61.138.128.226:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -726,7 +726,6 @@ CETV4,http://123.56.129.203:8025/rtp/225.1.8.195:4120$北京电信组播源
 法治天地,http://dassby.qqff.top:99/live/法治天地/index.m3u8$订阅源
 精彩影视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId=$订阅源|IPv6
 乐游,http://122.9.151.210:6217/rtp/238.255.2.188:5999$贵州电信组播源
-金色学堂,http://120.55.49.231:1141/rtp/233.50.201.186:5140$浙江电信组播源
 生活时尚,http://122.9.151.210:6209/rtp/238.255.2.193:5999$组播源
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq$订阅源
 都市剧场,http://139.196.151.191:5630/rtp/239.45.3.136:5140$上海电信组播源
@@ -770,5 +769,6 @@ CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&pl
 纪实科教,url
 海洋频道,url
 居家购物,url
+金色学堂,url
 CHC影迷电影,url
 咪咕视频,url
